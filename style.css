@@ -1,0 +1,77 @@
+h1, h2, h3, h4, h5, h6 {
+  line-height: 20px;
+  margin-bottom: 30px;
+}
+header img{
+  /*position:relative;*/
+  float:left;
+}
+h1 {
+  font-family: arial;
+  display: inline-block;
+  font-size: 30px;
+}
+#inner {
+  font-family: 'Yellowtail', cursive;
+  font-size: 32px;
+  position:;
+  top:0px
+  bottom:50px;
+}
+#navbar {
+  margin-bottom:10px;
+  float:right;
+
+}
+
+.logotext p{
+  margin:0;
+}
+.logotext{
+  float:left;
+}
+h2 {
+  font-size: 50px;
+  font-style: bold;
+  font-family: 'oswald', sans-serif;
+  margin-top: 100px;
+}
+p {
+  text-indent: 2px;
+  margin-bottom:10px;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.right p {
+  margin-bottom: 30px;
+}
+.inner img {
+  float: left;
+}
+.ingredients {
+  background-image:url(list-bg.png);
+  columns: 2;
+  padding: 20px 50px 20px 50px;
+  max-height: 250px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.pinterest {
+  margin-right: 10px;
+}
+.bottomlogo {
+  background-image: center;
+}
+body {
+  width: 940px;
+  margin: 0 auto;
+}
+button {
+  background-color: orange;
+  font-color: white;
+}
+footer {
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+}
